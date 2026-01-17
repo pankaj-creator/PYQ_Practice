@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+  functions = "netlify/functions"
+
+[context.production.environment]
+  # Set these variables in Netlify UI, not here in the repo
+  # VITE_GEMINI_API_KEY = ""
+  # VITE_SHEETS_ENDPOINT = ""

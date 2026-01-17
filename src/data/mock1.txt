@@ -1,0 +1,84 @@
+Question Type,Parent Category,Category,Random Answers,Correct Feedback,Incorrect Feedback,Points,Question,Correct,Answer A,Answer B,Answer C,Answer D
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,कलम : लिखना :: चाकू : ?,A,काटना,खाना,धार,पकड़ना
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,पुस्तक : पढ़ना :: भोजन : ?,B,देखना,खाना,सूंघना,छूना
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,डॉक्टर : अस्पताल :: शिक्षक : ?,C,विद्यालय,घर,पुस्तक,छात्र
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,कुत्ता : भौंकना :: बिल्ली : ?,D,दहाड़ना,रोना,कूदना,म्याऊं
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,आंख : देखना :: कान : ?,A,सुनना,बोलना,छूना,चलना
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: A C E G ?,B,H,I,J,K
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: 2 4 8 16 ?,C,18,24,32,20
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: Z X V T ?,A,R,Q,P,O
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: 5 10 20 40 ?,D,60,70,75,80
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: B D G K ?,B,N,M,L,J
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि CAT को DBU लिखा जाए तो DOG को कैसे लिखेंगे?,A,EPH,FOH,DPH,EOH
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि PEN = QFO तो INK = ?,C,JOL,JNL,JMK,JPL
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि 123 = 6 तो 234 = ?,B,8,9,10,7
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि RAM = SBN तो CAT = ?,A,DBU,DCU,CBU,DAU
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि INDIA = JOEJB तो CHINA = ?,C,DJJOA,DJINA,DJOOB,CIJNB
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,निम्न शब्दों को शब्दकोश क्रम में सही क्रम दें: Apple, Ball, Cat, Dog?,A,Apple Ball Cat Dog,Ball Apple Cat Dog,Cat Ball Apple Dog,Dog Cat Ball Apple
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,निम्न में से कौन शब्द पहले आएगा?,C,Orange,Peach,Apple,Banana
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,शब्दकोश के अनुसार अंतिम शब्द कौन सा है?,D,Ant,Bat,Cat,Zoo
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,शब्दकोश क्रम में सही विकल्प चुनें?,B,Sun Star Sky Sea,Sea Sky Star Sun,Sea Sky Sun Star,Star Sun Sky Sea
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,शब्दकोश क्रम में सबसे पहले कौन?,A,Book,Pen,Pencil,Eraser
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में व्यवस्थित करें: LPAEP?,B,APPLE,PEPAL,LEPAP,PALEP
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में व्यवस्थित करें: RTAE?,C,TEAR,RATE,EARTH,AREA
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में व्यवस्थित करें: NMOEY?,A,MONEY,ENOMY,ONMEY,NOEMY
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में व्यवस्थित करें: TCSHO?,D,HOSTC,OTCHS,SOHCT,CHOST
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में व्यवस्थित करें: DORW?,B,WORD,WROD,DWOR,ODRW
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि राम मोहन का भाई है और मोहन सोहन का पिता है, तो राम सोहन का क्या हुआ?,A,चाचा,मामा,पिता,भाई
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,एक लड़का अपनी बहन के पिता की पत्नी की ओर इशारा करता है, वह कौन है?,C,बहन,बुआ,मां,दादी
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि A, B का भाई है और B, C की मां है, तो A, C का क्या हुआ?,B,पिता,मामा,चाचा,भाई
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,एक व्यक्ति अपनी माता के पिता के पुत्र की ओर इशारा करता है, वह कौन है?,A,मामा,चाचा,भाई,पिता
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि X, Y की बहन है और Y, Z का पिता है, तो X, Z की क्या हुई?,D,मां,बुआ,दादी,चाची
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,3x3 मैट्रिक्स में कुल कितने खाने होते हैं?,C,6,8,9,12
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि पंक्तियां = 4 और स्तंभ = 5 हों तो कुल खाने?,B,15,20,25,10
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,2x4 मैट्रिक्स में कितने तत्व?,A,8,6,4,10
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,1x5 मैट्रिक्स में तत्वों की संख्या?,D,1,3,4,5
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,4x4 मैट्रिक्स में विकर्ण तत्व कितने?,C,2,3,4,5
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,हाथ : अंगूठी :: गला : ?,B,कान,हार,नाक,कंधा
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,पेड़ : पत्ता :: शरीर : ?,C,हाथ,पैर,त्वचा,आंख
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,मछली : पानी :: पक्षी : ?,A,आकाश,घोंसला,पेड़,हवा
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,घड़ी : समय :: थर्मामीटर : ?,D,गर्मी,दवा,हवा,तापमान
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,कलम : स्याही :: कार : ?,B,ब्रेक,पेट्रोल,टायर,इंजन
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: 1 4 9 16 ?,C,20,24,25,30
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: A D G J ?,A,M,L,K,N
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: 100 90 80 70 ?,B,50,60,65,55
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: Z Y X W ?,D,V,U,T,S
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,श्रृंखला पूरी करें: 3 6 12 24 ?,A,48,36,30,60
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि BAT = CBU तो CAT = ?,B,DBU,DBV,CBU,DAU
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि 5 10 15 = 30 तो 6 12 18 = ?,C,30,32,36,40
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि MAN = NBO तो DOG = ?,A,EPH,DOH,FPH,EOH
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि RAM = 27 तो CAT = ?,D,22,23,21,24
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि PEN = 27 तो INK = ?,B,26,29,30,28
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,शब्दकोश में पहले कौन आएगा?,A,Ant,Apple,Ball,Bat
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,शब्दकोश में अंतिम शब्द कौन सा है?,D,Dog,Deer,Cat,Zebra
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,सही शब्दकोश क्रम चुनें?,B,Pen Pencil Paper Book,Book Paper Pen Pencil,Book Paper Pencil Pen,Paper Book Pen Pencil
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,निम्न में से कौन शब्द पहले आएगा?,C,School,Science,Apple,Student
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,शब्दकोश क्रम में कौन बीच में आएगा?,A,Cat,Cow,Dog,Deer
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में जमाएं: LDOHG?,B,GOLDH,HOLDG,GODLH,DHOLG
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में जमाएं: TAEH?,C,HEAT,HATE,THEA,ATEH
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में जमाएं: KOOB?,A,BOOK,KOOB,BOKO,OBOK
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में जमाएं: RACE?,D,CARE,EARC,ACRE,RACE
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,अक्षरों को सही शब्द में जमाएं: LPEPA?,A,APPLE,PEPAL,PALEP,ELPAP
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि राम मोहन का पिता है और मोहन सोहन का भाई है तो राम सोहन का क्या है?,C,चाचा,मामा,पिता,भाई
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,एक लड़की अपनी मां के पति की मां को क्या कहेगी?,D,बहन,बुआ,मौसी,दादी
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि A B की बहन है और B C का पिता है तो A C की क्या है?,A,बुआ,मां,बहन,चाची
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,एक व्यक्ति अपने पिता की बहन के पुत्र को क्या कहेगा?,B,भाई,चचेरा भाई,मामा,भांजा
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,यदि X Y की मां है और Y Z का भाई है तो X Z की क्या है?,C,बहन,बुआ,मां,दादी
+
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,4x5 मैट्रिक्स में कुल कितने खाने होंगे?,B,15,20,25,10
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,3x4 मैट्रिक्स में तत्वों की संख्या?,A,12,9,7,6
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,5x5 मैट्रिक्स में विकर्ण तत्व कितने?,C,3,4,5,6
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,2x3 मैट्रिक्स में कुल तत्व?,D,4,5,6,8
+multiplechoice,,NTPC Reasoning,Yes,सही उत्तर,गलत उत्तर,1,1x1 मैट्रिक्स में कितने तत्व?,A,1,0,2,3

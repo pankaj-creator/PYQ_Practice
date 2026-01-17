@@ -1,0 +1,364 @@
+[
+  {
+    "id": 95,
+    "question": "भारत का राष्ट्रीय गीत किसके द्वारा रचा गया था?",
+    "options": ["रबींद्रनाथ टैगोर", "बंकिम चंद्र चटर्जी", "प्यदिमारी वेंकट सुब्बा राव", "पिंगली वेंकय्या"],
+    "correctAnswer": "बंकिम चंद्र चटर्जी",
+    "subject": "GS",
+    "Topic": "Static GK"
+  },
+  {
+    "id": 96,
+    "question": "निम्नलिखित में से कौन सा ध्वनी प्रदूषण का प्रभाव नहीं है?",
+    "options": ["जानवरों की मृत्यु", "टिनिटस", "उच्च रक्तचाप", "ओजोन की कमी"],
+    "correctAnswer": "ओजोन की कमी",
+    "subject": "Science",
+    "Topic": "Environment"
+  }
+  ,
+  {
+    "id": 97,
+    "question": "कलम : लिखना :: चाकू : ?",
+    "options": ["काटना", "खाना", "धार", "पकड़ना"],
+    "correctAnswer": "काटना",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 98,
+    "question": "पुस्तक : पढ़ना :: भोजन : ?",
+    "options": ["देखना", "खाना", "सूंघना", "छूना"],
+    "correctAnswer": "खाना",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 99,
+    "question": "डॉक्टर : अस्पताल :: शिक्षक : ?",
+    "options": ["विद्यालय", "घर", "पुस्तक", "छात्र"],
+    "correctAnswer": "पुस्तक",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 100,
+    "question": "कुत्ता : भौंकना :: बिल्ली : ?",
+    "options": ["दहाड़ना", "रोना", "कूदना", "म्याऊं"],
+    "correctAnswer": "म्याऊं",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 101,
+    "question": "आंख : देखना :: कान : ?",
+    "options": ["सुनना", "बोलना", "छूना", "चलना"],
+    "correctAnswer": "सुनना",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 102,
+    "question": "श्रृंखला पूरी करें: A C E G ?",
+    "options": ["H", "I", "J", "K"],
+    "correctAnswer": "I",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 103,
+    "question": "श्रृंखला पूरी करें: 2 4 8 16 ?",
+    "options": ["18", "24", "32", "20"],
+    "correctAnswer": "32",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 104,
+    "question": "श्रृंखला पूरी करें: Z X V T ?",
+    "options": ["R", "Q", "P", "O"],
+    "correctAnswer": "R",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 105,
+    "question": "श्रृंखला पूरी करें: 5 10 20 40 ?",
+    "options": ["60", "70", "75", "80"],
+    "correctAnswer": "80",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 106,
+    "question": "श्रृंखला पूरी करें: B D G K ?",
+    "options": ["N", "M", "L", "J"],
+    "correctAnswer": "M",
+    "subject": "Reasoning",
+    "Topic": "NTPC Reasoning"
+  },
+  {
+    "id": 107,
+    "question": "यदि CAT को DBU लिखा जाए तो DOG को कैसे लिखेंगे?",
+    "options": ["EPH", "FOH", "DPH", "EOH"],
+    "correctAnswer": "EPH",
+    "subject": "Reasoning",
+    "Topic": "Coding-Decoding"
+  },
+  {
+    "id": 108,
+    "question": "यदि PEN = QFO तो INK = ?",
+    "options": ["JOL", "JNL", "JMK", "JPL"],
+    "correctAnswer": "JMK",
+    "subject": "Reasoning",
+    "Topic": "Coding-Decoding"
+  },
+  {
+    "id": 109,
+    "question": "यदि 123 = 6 तो 234 = ?",
+    "options": ["8", "9", "10", "7"],
+    "correctAnswer": "9",
+    "subject": "Reasoning",
+    "Topic": "Number Series"
+  },
+  {
+    "id": 110,
+    "question": "यदि RAM = SBN तो CAT = ?",
+    "options": ["DBU", "DCU", "CBU", "DAU"],
+    "correctAnswer": "DBU",
+    "subject": "Reasoning",
+    "Topic": "Coding-Decoding"
+  },
+  {
+    "id": 111,
+    "question": "यदि INDIA = JOEJB तो CHINA = ?",
+    "options": ["DJJOA", "DJINA", "DJOOB", "CIJNB"],
+    "correctAnswer": "DJOOB",
+    "subject": "Reasoning",
+    "Topic": "Coding-Decoding"
+  },
+  {
+    "id": 112,
+    "question": "निम्न शब्दों को शब्दकोश क्रम में सही क्रम दें: Apple, Ball, Cat, Dog?",
+    "options": ["Apple Ball Cat Dog", "Ball Apple Cat Dog", "Cat Ball Apple Dog", "Dog Cat Ball Apple"],
+    "correctAnswer": "Apple Ball Cat Dog",
+    "subject": "Reasoning",
+    "Topic": "Dictionary Order"
+  },
+  {
+    "id": 113,
+    "question": "निम्न में से कौन शब्द पहले आएगा?",
+    "options": ["Orange", "Peach", "Apple", "Banana"],
+    "correctAnswer": "Apple",
+    "subject": "Reasoning",
+    "Topic": "Dictionary Order"
+  },
+  {
+    "id": 114,
+    "question": "शब्दकोश के अनुसार अंतिम शब्द कौन सा है?",
+    "options": ["Ant", "Bat", "Cat", "Zoo"],
+    "correctAnswer": "Zoo",
+    "subject": "Reasoning",
+    "Topic": "Dictionary Order"
+  },
+  {
+    "id": 115,
+    "question": "शब्दकोश क्रम में सही विकल्प चुनें?",
+    "options": ["Sun Star Sky Sea", "Sea Sky Star Sun", "Sea Sky Sun Star", "Star Sun Sky Sea"],
+    "correctAnswer": "Sea Sky Star Sun",
+    "subject": "Reasoning",
+    "Topic": "Dictionary Order"
+  },
+  {
+    "id": 116,
+    "question": "शब्दकोश क्रम में सबसे पहले कौन?",
+    "options": ["Book", "Pen", "Pencil", "Eraser"],
+    "correctAnswer": "Book",
+    "subject": "Reasoning",
+    "Topic": "Dictionary Order"
+  },
+  {
+    "id": 117,
+    "question": "अक्षरों को सही शब्द में व्यवस्थित करें: LPAEP?",
+    "options": ["APPLE", "PEPAL", "LEPAP", "PALEP"],
+    "correctAnswer": "PEPAL",
+    "subject": "Reasoning",
+    "Topic": "Anagram"
+  },
+  {
+    "id": 118,
+    "question": "अक्षरों को सही शब्द में व्यवस्थित करें: RTAE?",
+    "options": ["TEAR", "RATE", "EARTH", "AREA"],
+    "correctAnswer": "EARTH",
+    "subject": "Reasoning",
+    "Topic": "Anagram"
+  },
+  {
+    "id": 119,
+    "question": "अक्षरों को सही शब्द में व्यवस्थित करें: NMOEY?",
+    "options": ["MONEY", "ENOMY", "ONMEY", "NOEMY"],
+    "correctAnswer": "MONEY",
+    "subject": "Reasoning",
+    "Topic": "Anagram"
+  },
+  {
+    "id": 120,
+    "question": "अक्षरों को सही शब्द में व्यवस्थित करें: TCSHO?",
+    "options": ["HOSTC", "OTCHS", "SOHCT", "CHOST"],
+    "correctAnswer": "CHOST",
+    "subject": "Reasoning",
+    "Topic": "Anagram"
+  },
+  {
+    "id": 121,
+    "question": "अक्षरों को सही शब्द में व्यवस्थित करें: DORW?",
+    "options": ["WORD", "WROD", "DWOR", "ODRW"],
+    "correctAnswer": "WROD",
+    "subject": "Reasoning",
+    "Topic": "Anagram"
+  },
+  {
+    "id": 122,
+    "question": "यदि राम मोहन का भाई है और मोहन सोहन का पिता है, तो राम सोहन का क्या हुआ?",
+    "options": ["चाचा", "मामा", "पिता", "भाई"],
+    "correctAnswer": "चाचा",
+    "subject": "Reasoning",
+    "Topic": "Family Relations"
+  },
+  {
+    "id": 123,
+    "question": "एक लड़का अपनी बहन के पिता की पत्नी की ओर इशारा करता है, वह कौन है?",
+    "options": ["बहन", "बुआ", "मां", "दादी"],
+    "correctAnswer": "मां",
+    "subject": "Reasoning",
+    "Topic": "Family Relations"
+  },
+  {
+    "id": 124,
+    "question": "यदि A, B का भाई है और B, C की मां है, तो A, C का क्या हुआ?",
+    "options": ["पिता", "मामा", "चाचा", "भाई"],
+    "correctAnswer": "मामा",
+    "subject": "Reasoning",
+    "Topic": "Family Relations"
+  },
+  {
+    "id": 125,
+    "question": "एक व्यक्ति अपनी माता के पिता के पुत्र की ओर इशारा करता है, वह कौन है?",
+    "options": ["मामा", "चाचा", "भाई", "पिता"],
+    "correctAnswer": "मामा",
+    "subject": "Reasoning",
+    "Topic": "Family Relations"
+  },
+  {
+    "id": 126,
+    "question": "यदि X, Y की बहन है और Y, Z का पिता है, तो X, Z की क्या हुई?",
+    "options": ["मां", "बुआ", "दादी", "चाची"],
+    "correctAnswer": "चाची",
+    "subject": "Reasoning",
+    "Topic": "Family Relations"
+  },
+  {
+    "id": 127,
+    "question": "3x3 मैट्रिक्स में कुल कितने खाने होते हैं?",
+    "options": ["6", "8", "9", "12"],
+    "correctAnswer": "9",
+    "subject": "Reasoning",
+    "Topic": "Matrix"
+  },
+  {
+    "id": 128,
+    "question": "यदि पंक्तियां = 4 और स्तंभ = 5 हों तो कुल खाने?",
+    "options": ["15", "20", "25", "10"],
+    "correctAnswer": "20",
+    "subject": "Reasoning",
+    "Topic": "Matrix"
+  },
+  {
+    "id": 129,
+    "question": "2x4 मैट्रिक्स में कितने तत्व?",
+    "options": ["8", "6", "4", "10"],
+    "correctAnswer": "8",
+    "subject": "Reasoning",
+    "Topic": "Matrix"
+  },
+  {
+    "id": 130,
+    "question": "1x5 मैट्रिक्स में तत्वों की संख्या?",
+    "options": ["1", "3", "4", "5"],
+    "correctAnswer": "5",
+    "subject": "Reasoning",
+    "Topic": "Matrix"
+  },
+  {
+    "id": 131,
+    "question": "4x4 मैट्रिक्स में विकर्ण तत्व कितने?",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "4",
+    "subject": "Reasoning",
+    "Topic": "Matrix"
+  },
+  
+  {
+    "id": 16,
+    "question": "खजुराहो समूह के स्मारकों का यूनेस्को विश्व धरोहर स्थल कहाँ स्थित है?",
+    "options": ["मध्य प्रदेश", "उत्तर प्रदेश", "उत्तराखंड", "छत्तीसगढ़"],
+    "correctAnswer": "मध्य प्रदेश",
+    "subject": "GS",
+    "Topic": "Indian Heritage"
+  },
+  {
+    "id": 26,
+    "question": "मृणालिनी साराभाई किस कला से संबंधित थीं?",
+    "options": ["पट्टचित्र", "तंजौर चित्रकला", "भरतनाट्यम", "मधुबनी चित्रकला"],
+    "correctAnswer": "भरतनाट्यम",
+    "subject": "GS",
+    "Topic": "Art & Culture"
+  },
+  {
+    "id": 27,
+    "question": "INDIA: TIGER :: USA : ______",
+    "options": ["UNICORN", "BALD EAGLE", "TURUL", "DRUK"],
+    "correctAnswer": "BALD EAGLE",
+    "subject": "Reasoning",
+    "Topic": "Analogy"
+  },
+  {
+    "id": 30,
+    "question": "पानीपत की तीसरी लड़ाई में अहमद शाह अब्दाली के साथ युद्ध किसने किया?",
+    "options": ["मुग़ल", "लोदी", "मराठा", "खिलजी"],
+    "correctAnswer": "मराठा",
+    "subject": "GS",
+    "Topic": "Indian History"
+  },
+  {
+    "id": 31,
+    "question": "निम्नलिखित में से कौन-सा ग्रीनहाउस गैस नहीं है?",
+    "options": ["कार्बन डाइऑक्साइड", "मीथेन", "क्लोरोफ्लोरोकार्बन", "ऑक्सीजन"],
+    "correctAnswer": "ऑक्सीजन",
+    "subject": "Science",
+    "Topic": "Environment"
+  },
+  {
+    "id": 34,
+    "question": "6 महीने के लिए 50 रुपये पर प्रतिमाह 10 पैसे प्रति रुपया की दर से साधारण ब्याज ज्ञात कीजिये।",
+    "options": ["35 रुपये", "40 रुपये", "25 रुपये", "30 रुपये"],
+    "correctAnswer": "30 रुपये",
+    "subject": "Math",
+    "Topic": "Simple Interest"
+  },
+  {
+    "id": 93,
+    "question": "दो- अंकों की संख्या के अंकों का योग 9 है। जब अंकों को उल्टा जाता है, तो संख्या 45 कम हो जाती है। परिवर्तित संख्या ज्ञात कीजिये।",
+    "options": ["45", "72", "63", "27"],
+    "correctAnswer": "72",
+    "subject": "Math",
+    "Topic": "Number System"
+  },
+  {
+    "id": 94,
+    "question": "यदि MENTOR = NVMGLI है, तो PROFESSOR =",
+    "options": ["QSPGFTTPS", "KILUVHHLI", "KSLGVTHMI", "KILGFHHLI"],
+    "correctAnswer": "KILUVHHLI",
+    "subject": "Reasoning",
+    "Topic": "Coding-Decoding"
+  }
+]
